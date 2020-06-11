@@ -23,3 +23,26 @@ cards/yarn-debug.log*
 cards/yarn-error.log*
 cards/.idea
 
+# dependencies
+decomposition/node_modules
+decomposition/.pnp
+decomposition/.pnp.js
+
+# testing
+decomposition/coverage
+
+# production
+decomposition/build
+
+# misc
+decomposition/.DS_Store
+decomposition/.env.local
+decomposition/.env.development.local
+decomposition/.env.test.local
+decomposition/.env.production.local
+
+decomposition/npm-debug.log*
+decomposition/yarn-debug.log*
+decomposition/yarn-error.log*
+decomposition/.idea
+
